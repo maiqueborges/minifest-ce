@@ -2,7 +2,7 @@ importScripts( 'https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js' );
 'use strict';
 
 /**
- * Service Worker of Cooperadores do Evangelho
+ * Service Worker de Cooperadores do Evangelho
  * To learn more and add one to your website, visit - https://superpwa.com
  */
  
