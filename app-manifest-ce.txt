@@ -37,7 +37,7 @@
     ],
 "start_url": "https://cooperadoresdoevangelho.blogspot.com/",
 "background_color": "#fff",
-"dir": "rtl",+
+"dir": "rtl",
 "lang": "pt_BR",
 "display": "standalone",
 "prefer_related_applications": false,
