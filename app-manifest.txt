@@ -3,46 +3,44 @@
 "short_name": "blog.Cooperadores",
   "name": "Cooperadores do Evangelho",
 "description": "A comunidade Cooperadores do Evangelho (CE) existe para cultivar a transformação da fé cega para a gloriosa descoberta da Verdade, a essa geração. Numa época em que tão poucos leem a bíblia e quando a confusão reina na igreja, nós queremos ajudar cristãos a saberem no que eles creem, porque acreditam no que acreditam, como viver o que creem e como compartilhar o que acreditam. Junte-se a nós!",
-  "icons":
-[
-    {
+  "icons": [
+  {
       "src": "https://1.bp.blogspot.com/-nucEWNvgPlc/WoQ4W7nDYRI/AAAAAAAAFNQ/4K-nolsT1HAOL_c6Qm1h8P6fJk0G8VPjACLcBGAs/s1600/android-icon-48x48.png",
       "type": "image/png",
       "sizes": "48x48",
       "rel": "icon"
     },
-{
+    {
     "src": "https://2.bp.blogspot.com/-C-7P6mPsvRs/WoQ4iMCbzbI/AAAAAAAAFNU/VASOpSgJ3LMVjN1hJ59mEg5pwBZvKmkMwCLcBGAs/s1600/android-icon-72x72.png",
     "sizes": "72x72",
     "type": "image/png",
     "rel": "icon"
-  }, 
+    }, 
     {
       "src": "https://3.bp.blogspot.com/-pu7sH2DH86g/WoQ4yvUfU2I/AAAAAAAAFNY/jZCvqcL2XRQphEOr80RIy4dMV0s_yyzYwCLcBGAs/s1600/android-icon-96x96.png",
       "type": "image/png",
       "sizes": "96x96",
       "rel": "icon"
-    },
-{
+      },
+      {
     "src": "https://3.bp.blogspot.com/-RnrEAFSWH6M/WoQ4-v7EwZI/AAAAAAAAFNc/ZqxAUKfxksQ8hV_9t2uxepbuv_abQCv4ACLcBGAs/s1600/android-icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
     "rel": "icon"
-  },
+    },
     {
       "src": "https://1.bp.blogspot.com/-6CzdF8TSR-A/WoQ5MHk5piI/AAAAAAAAFNk/nhjkq5xuLwEx1inNk_2AesBbcv-AQOiigCLcBGAs/s1600/android-icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "rel": "icon"
-    },
- {
+      },
+      {
     "src": "https://3.bp.blogspot.com/-RnrEAFSWH6M/WoQ4-v7EwZI/AAAAAAAAFNc/ZqxAUKfxksQ8hV_9t2uxepbuv_abQCv4ACLcBGAs/s1600/android-icon-144x144.png",
     "sizes": "168x168",
     "type": "image/png",
     "rel": "icon"
-  },
-
-  {
+    }
+    ],
 "start_url": "https://cooperadoresdoevangelho.blogspot.com/?pwa_launcher=true",
 "background_color": "#ff6932",
 "dir": "rtl",
@@ -50,6 +48,5 @@
 "display": "standalone",
 "prefer_related_applications": false,
 "theme_color": "#FF4400"
-]
 }
 
