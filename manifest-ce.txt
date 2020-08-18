@@ -41,7 +41,7 @@
       "rel": "icon"
       }
     ],
-"start_url": "https://cooperadoresdoevangelho.blogspot.com",
+"start_url": "/",
 "background_color": "#fff",
 "dir": "rtl",
 "lang": "pt_BR",
