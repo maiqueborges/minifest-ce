@@ -33,17 +33,11 @@
       "type": "image/png",
       "sizes": "192x192",
       "rel": "icon"
-      },
-      {
-    "src": "https://3.bp.blogspot.com/-RnrEAFSWH6M/WoQ4-v7EwZI/AAAAAAAAFNc/ZqxAUKfxksQ8hV_9t2uxepbuv_abQCv4ACLcBGAs/s1600/android-icon-144x144.png",
-    "sizes": "168x168",
-    "type": "image/png",
-    "rel": "icon"
-    }
+      }
     ],
-"start_url": "https://cooperadoresdoevangelho.blogspot.com/?pwa_launcher=true",
-"background_color": "#ff6932",
-"dir": "rtl",
+"start_url": "https://cooperadoresdoevangelho.blogspot.com/",
+"background_color": "#fff",
+"dir": "rtl",+
 "lang": "pt_BR",
 "display": "standalone",
 "prefer_related_applications": false,
