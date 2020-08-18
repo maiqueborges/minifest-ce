@@ -38,7 +38,7 @@
       "src": "https://1.bp.blogspot.com/-ca_jiCapvgQ/XzwqbORth_I/AAAAAAAAGck/IqvIVl4I4QsvJuxBvH87jB7Iw3DmUEJsQCLcBGAsYHQ/s512/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512",
-      "rel": "icon",
+      "rel": "icon"
       }
     ],
 "start_url": "https://cooperadoresdoevangelho.blogspot.com",
