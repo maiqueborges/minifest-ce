@@ -48,5 +48,6 @@
 "display": "standalone",
 "orientation": "portrait",
 "prefer_related_applications": false,
-"theme_color": "#ff4400"
+"theme_color": "#ff4400",
+"gcm_sender_id":"482941778795" 
 }
