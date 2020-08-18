@@ -1,4 +1,3 @@
-<script src='app.json' type='application/manifest+json'>
     {
 &#39;short_name&#39;: &#39;blog.Cooperadores&#39;,
   &#39;name&#39;: &#39;Cooperadores do Evangelho&#39;,
@@ -52,5 +51,4 @@
 &#39;theme_color&#39;: &#39;#FF4400&#39;
 ]
 }
-</script>
 
