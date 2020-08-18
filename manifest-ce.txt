@@ -31,14 +31,23 @@
       "src": "https://1.bp.blogspot.com/-6CzdF8TSR-A/WoQ5MHk5piI/AAAAAAAAFNk/nhjkq5xuLwEx1inNk_2AesBbcv-AQOiigCLcBGAs/s1600/android-icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192",
-      "rel": "icon"
+      "rel": "icon",
+      "purpose": "any maskable"
+      },
+      {
+      "src": "https://1.bp.blogspot.com/-ca_jiCapvgQ/XzwqbORth_I/AAAAAAAAGck/IqvIVl4I4QsvJuxBvH87jB7Iw3DmUEJsQCLcBGAsYHQ/s512/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "rel": "icon",
       }
     ],
-"start_url": "https://cooperadoresdoevangelho.blogspot.com/",
+"start_url": "https://cooperadoresdoevangelho.blogspot.com",
 "background_color": "#fff",
 "dir": "rtl",
 "lang": "pt_BR",
 "display": "standalone",
+"orientation": "portrait",
+"scope": "/",
 "prefer_related_applications": false,
-"theme_color": "#FF4400"
+"theme_color": "#ff4400"
 }
