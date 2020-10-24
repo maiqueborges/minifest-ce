@@ -1,5 +1,5 @@
 {
-"short_name": "blog.Cooperadores",
+"short_name": "Portal Cooperadores",
   "name": "Cooperadores do Evangelho",
 "description": "A comunidade Cooperadores do Evangelho (CE) existe para cultivar a transformação da fé cega para a gloriosa descoberta da Verdade, a essa geração. Numa época em que tão poucos leem a bíblia e quando a confusão reina na igreja, nós queremos ajudar cristãos a saberem no que eles creem, porque acreditam no que acreditam, como viver o que creem e como compartilhar o que acreditam. Junte-se a nós!",
   "icons": [
@@ -41,7 +41,7 @@
       "rel": "icon"
       }
     ],
-"start_url": "https://cooperadoresdoevangelho.blogspot.com/",
+"start_url": "https://www.cooperadoresdoevangelho.com/",
 "background_color": "#fff",
 "dir": "rtl",
 "lang": "pt_BR",
