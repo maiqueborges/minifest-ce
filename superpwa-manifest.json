@@ -1,13 +1,14 @@
 {
 "short_name": "Portal Cooperadores",
-  "name": "Cooperadores do Evangelho",
-"description": "A comunidade Cooperadores do Evangelho (CE) existe para cultivar a transformação da fé cega para a gloriosa descoberta da Verdade, a essa geração. Numa época em que tão poucos leem a bíblia e quando a confusão reina na igreja, nós queremos ajudar cristãos a saberem no que eles creem, porque acreditam no que acreditam, como viver o que creem e como compartilhar o que acreditam. Junte-se a nós!",
-  "icons": [
-  {
-      "src": "https://lh3.googleusercontent.com/-8OgcrLRavzY/YscCgIrk5uI/AAAAAAAAH38/jalF_tKaVpssq-D4v-B9yIO39cXPrGcNgCNcBGAsYHQ/logo-quadrado-48x48.png",
-      "type": "image/png",
-      "sizes": "48x48",
-      "rel": "icon"
+"name": "Cooperadores do Evangelho",
+"description": "O portal Cooperadores do Evangelho existe para cultivar a transformação da fé cega para a gloriosa descoberta da Verdade, a essa geração. Numa época em que tão poucos leem a bíblia e quando a confusão reina na igreja, nós queremos ajudar cristãos a saberem no que eles creem, porque acreditam no que acreditam, como viver o que creem e como compartilhar o que acreditam. Junte-se a nós!",
+"icons":
+    [
+    {
+    "src": "https://lh3.googleusercontent.com/-8OgcrLRavzY/YscCgIrk5uI/AAAAAAAAH38/jalF_tKaVpssq-D4v-B9yIO39cXPrGcNgCNcBGAsYHQ/logo-quadrado-48x48.png",
+    "type": "image/png",
+    "sizes": "48x48",
+    "rel": "icon"
     },
     {
     "src": "https://lh3.googleusercontent.com/-Nb307v-O65s/YscC_WTMVDI/AAAAAAAAH4E/6wCDNIi2Ob4BSZXcw6aNjrUghlHnBDWqwCNcBGAsYHQ/logo-quadrado-72x72.png",
@@ -16,29 +17,29 @@
     "rel": "icon"
     }, 
     {
-      "src": "https://lh3.googleusercontent.com/-ZxWsRTossw0/YscDaqOJpRI/AAAAAAAAH4M/m2mJLyiJXYwSjKYeI-th-w73j022v_qtACNcBGAsYHQ/logo-quadrado-96x96.png",
-      "type": "image/png",
-      "sizes": "96x96",
-      "rel": "icon"
-      },
-      {
+    "src": "https://lh3.googleusercontent.com/-ZxWsRTossw0/YscDaqOJpRI/AAAAAAAAH4M/m2mJLyiJXYwSjKYeI-th-w73j022v_qtACNcBGAsYHQ/logo-quadrado-96x96.png",
+    "type": "image/png",
+    "sizes": "96x96",
+    "rel": "icon"
+    },
+    {
     "src": "https://lh3.googleusercontent.com/-tXCyJ_5psJ4/YscD1KySLtI/AAAAAAAAH4U/PpkJM64z8M0OqfoufbRlQ25yO1rEGu2ngCNcBGAsYHQ/logo-quadrado-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
     "rel": "icon"
     },
     {
-      "src": "https://lh3.googleusercontent.com/-01Djbepab_0/YscER1y0xxI/AAAAAAAAH4c/LZ4Oivku7rwL3EyPLL0JbfYcV7rmOcq9wCNcBGAsYHQ/logo-quadrado-192X192.png",
-      "type": "image/png",
-      "sizes": "192x192",
-      "rel": "icon"
-      },
-      {
-      "src": "https://lh3.googleusercontent.com/-QN_FNJ-anAw/YscEmKuaxBI/AAAAAAAAH4k/z6kljbZc0xMpvnuUsM0ukTca3AlwNzuXgCNcBGAsYHQ/logo-quadrado-512X512.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "rel": "icon"
-      }
+    "src": "https://lh3.googleusercontent.com/-01Djbepab_0/YscER1y0xxI/AAAAAAAAH4c/LZ4Oivku7rwL3EyPLL0JbfYcV7rmOcq9wCNcBGAsYHQ/logo-quadrado-192X192.png",
+    "type": "image/png",
+    "sizes": "192x192",
+    "rel": "icon"
+    },
+    {
+    "src": "https://lh3.googleusercontent.com/-QN_FNJ-anAw/YscEmKuaxBI/AAAAAAAAH4k/z6kljbZc0xMpvnuUsM0ukTca3AlwNzuXgCNcBGAsYHQ/logo-quadrado-512X512.png",
+    "type": "image/png",
+    "sizes": "512x512",
+    "rel": "icon"
+    }
     ],
 "start_url": "https://cooperadoresdoevangelho.blogspot.com/",
 "background_color": "#fff",
