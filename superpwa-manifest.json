@@ -1,45 +1,63 @@
 {
-"short_name": "Portal Cooperadores",
+"short_name": "Cooperadores",
 "name": "Cooperadores do Evangelho",
 "description": "Existimos para cultivar a transformação da fé cega para a gloriosa descoberta da Verdade, a essa geração. — Maique Borges",
 "icons":
     [
     {
-    "src": "https://lh3.googleusercontent.com/-8OgcrLRavzY/YscCgIrk5uI/AAAAAAAAH38/jalF_tKaVpssq-D4v-B9yIO39cXPrGcNgCNcBGAsYHQ/logo-quadrado-48x48.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUsxDq7KdvxIpl9iiizacKAFgvewhHa8qEd9Dt7nlWqCvg11CEnJYQXLFpHbVuPFDB45HjSGGouIpUfVA9eSjTlyCUWr8gUy8h4XJ6OCs-WfX4-YUmE_jOuhp3lEzdjf_Roe2lyTGezl02aNX86PyBGPiIw346__SHJFpYZZjKPYRI9bj81z5XbtWZSQ/s1600/logo-quadrado-16x16.png",
+    "type": "image/png",
+    "sizes": "16X16",
+    "rel": "icon"
+    },    
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTViE4zdFhtM7xB108lzZ7pKDMhFAUVyCYRFmOclXwn3g8nXxT03E34L41PPbpv7dpl7Hcf8D1fXY_t4-M9cSxuaZD9ddmTe55iGOcuRnMF5ux-X9XOuX9y2vb7dLpO2IW0CQ060s_K16whd8QUPZz-bqzP4X-krZxGfxE1-A5tGEN8Sd2-lgVgVisXw/s1600/logo-quadrado-32x32.png",
+    "type": "image/png",
+    "sizes": "32X32",
+    "rel": "icon"
+    },    
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMJ8Frm6mZimvKudJ3kXzGxH5yhBkvI8ExLvT1t1gWjMHTCAi_YU-nCvEu_Jf1wZFjapLFUquO1tf5ZUTqicAkl29pkTVoplR0rDGFlCYjvRYnsVDnegZGDQ61mt8_cxGPPxwnDNLCVcqM6TEuXEVD7AttmcEhjtjQAHDoGshOWt8rOdDC2vNwSEYAIg/s1600/logo-quadrado-48x48.png",
     "type": "image/png",
     "sizes": "48x48",
     "rel": "icon"
     },
     {
-    "src": "https://lh3.googleusercontent.com/-Nb307v-O65s/YscC_WTMVDI/AAAAAAAAH4E/6wCDNIi2Ob4BSZXcw6aNjrUghlHnBDWqwCNcBGAsYHQ/logo-quadrado-72x72.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrq03VpBidEt_ZVZRbu06JN8ODTgiJ3cMOiKMEjq9KFk6HRE1InrwhaFUozyKqsmEdLGwLqWKZUcCv7Qcyd2M99mh6pBDeipbGBwVRpnRxQoKIxuTS05hW_xOITNBRiKwKN4UPT-FhlDwmzAnqBO2q3M8IubM-l0fMClYq43B7J-E4CX_wgTMrJpMwQ/s1600/logo-quadrado-72x72.png",
     "sizes": "72x72",
     "type": "image/png",
     "rel": "icon"
     }, 
     {
-    "src": "https://lh3.googleusercontent.com/-ZxWsRTossw0/YscDaqOJpRI/AAAAAAAAH4M/m2mJLyiJXYwSjKYeI-th-w73j022v_qtACNcBGAsYHQ/logo-quadrado-96x96.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWtlFlTePIzm__qLHTdRXjjCZO-h3dz5RIVjX0bf9_Sz9UYJXGoUH0mzWcGlbzbDwXNUOjF7wJfnmjdoS55H4ElzTqEH4FtQSwMISdJeU9o_4w2z3lEf9lw4PfWpNg4Uh-DWkan2zL_CLQ8AIuyySwO197pCMEQFAg-GeG85mZbBm8e7IhNARy4zDuDA/s1600/logo-quadrado-96x96.png",
     "type": "image/png",
     "sizes": "96x96",
     "rel": "icon"
     },
     {
-    "src": "https://lh3.googleusercontent.com/-tXCyJ_5psJ4/YscD1KySLtI/AAAAAAAAH4U/PpkJM64z8M0OqfoufbRlQ25yO1rEGu2ngCNcBGAsYHQ/logo-quadrado-144x144.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif5n9rsReHCwelkmt2zKakQaKiSkjbOpxzI7zg2dLaewGmq8GKl4ntP-B_ZYdps0LaAn_6sN3Lr_7Lb3jnbvIT_DAu2iCPCBM0Ko_C1Vxg8NffoiVGU6d9Qlsr9Qs6wpCFJxZhFsjTNi6nTdFUp8LfPh8GRbmrpZmwkd0U15h1B71JTMojJ0QE7eU3Kw/s1600/logo-quadrado-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
     "rel": "icon"
     },
     {
-    "src": "https://lh3.googleusercontent.com/-01Djbepab_0/YscER1y0xxI/AAAAAAAAH4c/LZ4Oivku7rwL3EyPLL0JbfYcV7rmOcq9wCNcBGAsYHQ/logo-quadrado-192X192.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmH-9NYq2IzKv9RoYgr9N2Mn5a9iq35eFSkW27uma3f4h0nUj3Wqz2H4dgR6RhKbGubgbhwL8cDvfWEuOV0go6pK6nfWqyZqj0CvJM6I3_WtRAP1uAObyfYbPdV2cDYkoL_RK6GDGci7rGPcJ3EntDQdHCG4LsDWAcYmmZIx_Yb8tBiP_nmEN9845sQ/s1600/logo-quadrado-192X192.png",
     "type": "image/png",
     "sizes": "192x192",
     "rel": "icon"
     },
     {
-    "src": "https://lh3.googleusercontent.com/-QN_FNJ-anAw/YscEmKuaxBI/AAAAAAAAH4k/z6kljbZc0xMpvnuUsM0ukTca3AlwNzuXgCNcBGAsYHQ/logo-quadrado-512X512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-ufvYYN_Y1JXzGZxC4bx7FMV65lVxIdd02APa6Ef-Q9NCnyqQGExvJIgGlJD1z9gJlRVs9Mmyr0w8mqqLocbsCuK7nm0jPs0ou3sUh2EDegL6CRAk9u2zv5B-s6pnEUtKM1LLTDLNpCmT-IpMlcBCuhY3eC4YzkevGXn3Wyw9G3Wm1IsrVDPbUAAzQ/s1600/logo-quadrado-512X512.png",
     "type": "image/png",
     "sizes": "512x512",
     "rel": "icon"
-    }
+    },
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKnaPnMasB7BbLQ2w6evSkuh9sM753Fe_NocEhgALAPyiTsAliAuD7NPYTiEBkvNIhpHnpiC0Escxwu5GHXx4SxjLudWiiB-xjSigHCqOI_FstQFiBs2A4kNtCCz0xrZ_H3FoHi9PHl4tV32nSAnFs1RbKv9YI1TXe8hMe8GojoadvJgrf2aMdE3nxbA/s1600/logo-quadrado-1000X1000.png",
+    "type": "image/png",
+    "sizes": "1000x1000",
+    "rel": "icon"
+    }    
     ],
 "start_url": "https://cooperadoresdoevangelho.blogspot.com/",
 "background_color": "#fff",
