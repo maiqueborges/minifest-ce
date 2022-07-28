@@ -57,7 +57,13 @@
     "type": "image/png",
     "sizes": "1000x1000",
     "rel": "icon"
-    }    
+    },
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW9S2ywiC-3avZTignqonIm60_QorH4Ud6op4F5-1gTtCzvo_ZhFFz8av7BJDP1Xp9JXlAmP8XLEwjisIsTQ6rAXIjCerDAmZASGXY6p3Hjn6ee3yor2VwCpnrquvX4-1Ya5H1IDzXoOf6THih1ATjk6fAn0LAfQeO_WenMy2-B_ugTUG9StfWeWSZhw/s1600/square.png",
+    "type": "image/png",
+    "sizes": "1600x1600",
+    "rel": "icon"
+    }     
     ],
 "start_url": "https://cooperadoresdoevangelho.blogspot.com/",
 "background_color": "#fff",
