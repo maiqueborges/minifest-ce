@@ -5,38 +5,170 @@
 "icons":
     [
     {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUsxDq7KdvxIpl9iiizacKAFgvewhHa8qEd9Dt7nlWqCvg11CEnJYQXLFpHbVuPFDB45HjSGGouIpUfVA9eSjTlyCUWr8gUy8h4XJ6OCs-WfX4-YUmE_jOuhp3lEzdjf_Roe2lyTGezl02aNX86PyBGPiIw346__SHJFpYZZjKPYRI9bj81z5XbtWZSQ/s1600/logo-quadrado-16x16.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqoryUQ8S94xtuK4pvKN3DmWOr1Sg0lamuiMiCICwQwIcWipLypqVEuAJSX0mIm6dZvJpYx5tl-9KQDG9bQ3XvB3KCMBHy-zb7E5kogJW7SksupW8ODpj43GxzT0oMNn-IpGNHuT-70BOd65LEXZ2sGRzTXcZqi6Z0c2seBzmIuQyGzfgDaRTAeVTUwg/s1600/logo-quadrado-16x16.png",
     "type": "image/png",
     "sizes": "16X16",
     "rel": "icon"
-    },    
+    },     
     {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTViE4zdFhtM7xB108lzZ7pKDMhFAUVyCYRFmOclXwn3g8nXxT03E34L41PPbpv7dpl7Hcf8D1fXY_t4-M9cSxuaZD9ddmTe55iGOcuRnMF5ux-X9XOuX9y2vb7dLpO2IW0CQ060s_K16whd8QUPZz-bqzP4X-krZxGfxE1-A5tGEN8Sd2-lgVgVisXw/s1600/logo-quadrado-32x32.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNYcCUfDO54J0C_4f3Kt-AFQl_KG9kfqAhTatLd4kBerxJaaGIqRy6yp48OlNwLQZFxc6u7GMroJJfV914oc8j3q91lTa7M6S6GDEcce-26J0WLBC2KGQUbK9g8UQmYpFPKpSR-35g5QPcSBkpJqFBHFK38eDggOkhBxtCCslBXznPwclmOsRON0Pdgw/s1600/logo-quadrado-18%C3%9718.png",
+    "type": "image/png",
+    "sizes": "18X18",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGth8bs0Q7xAOOqXC1Lcdz5csoqyZy-TM6BoMsHXJx6Dc7Wa7gouxQp7vg77Yr0j7Pwmjo1WZbnbtC8AeLnPAXefSC0eBuujNbuo75MxED0Qef8l9WEhL1HIwb5_iovj8RZ9omEwFwc4g_ePtyAHefrzM9pNG64L9Sv3tYyMOb1bsoJLLSxaRZckrPw/s1600/logo-quadrado-22%C3%9722.png",
+    "type": "image/png",
+    "sizes": "22X22",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-bRqMoIXaWrjfT0F7x7FrIJRGYcKBUcgAdf9Ln2TsylAPF-5A4Ib7_ApiUDxHK_9jAhNI6A-NJ3iZh1VJwt5N-F5_MJUeb06moBJTGt23ObwbECkpPoNTBlOBNxkbZOvpShKbyq9KlDY7QVxiHMqIEyVcjMtIDHKvWwp6KRIXsYliMRwkH5_lvxL3kg/s1600/logo-quadrado-24x24.png",
+    "type": "image/png",
+    "sizes": "24X24",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYM4VHJw2K9HWXLAD8B1B9YTnwUb34tmy5f29Cp-RCAlmDD1Q8WDfEuenRPHM5JVo-BXooIbxVWx4AfdvdM-I56n9--7jrtWdF8iVzNAliFg2bAkigOUVKfogL9I1Okzm7pXf2tPw19ia_BvX1PikacGKhEo6RHpdchy4__AuirZwSZP6tS0Z6A_HFjQ/s1600/logo-quadrado-32x32.png",
     "type": "image/png",
     "sizes": "32X32",
     "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMJCODgb2gEaKi4oYwOKc0tQehcziXV9SPfcuelVXEtc4WYrvMg2TZ1ijJhnSlmB87A0qUml1yti6Rm9tC0FLWRbk_BZuqjNAUxF9lyoUI0l8RyY46eBimUQKbIhCqoKLH5o1yUW6vREqz4jAaZBi3o7vMR75-AVrX_XagSBHzNWIcHvbOQwPllWHw_Q/s1600/logo-quadrado-44%C3%9744.png",
+    "type": "image/png",
+    "sizes": "44X44",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TJT7HgoA15KkTWGToR8dxRfzZudkqzKBKJPiH8Jlkk8EFAtQgbY5OumwCkv84gIVuZTmwLwdmXt_o2-MCZKa4ucHPdpGid5zE8vMnMLB6hGEzx5qZIl8sMNnknAoAUK2-FlpBFlg03KsKdqoplWriN9aBNvkX8ZFS2Q9Y3BT5-AMWkPQta_oZb2ahw/s1600/logo-quadrado-48x48.png",
+    "type": "image/png",
+    "sizes": "48X48",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJdgCfqAdlqZFU0PFL8w8B0KsiYCm2yZgy44YTs2va_H3owIsRrgigHNzWMx35IBwBhdO2K5NiYTOmhUtLqK44-YwWvMxbrrVMtzVlFlAN917_lUyZsfMwqj_FhzY-ZmKE5aY7m_ouWhAQucZH1sMuqnc43zRTno_7YB62VXU6uV9D7INtzUeGLqwKMQ/s1600/logo-quadrado-50%C3%9750.png",
+    "type": "image/png",
+    "sizes": "50X50",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg5YQFOXE4BGdAXbhnzr8Hw5vz03eyJS93zoY8g_BZGLbWMm3zlZoARiCQnshBPaaziFwU7ygHGSCP7_pdEPMtTZ9zGDSnNA4FI5P8w9XfqFxM64bGgl5ymFZp6hkV8SWdLe90Y4kzvjadM4a41UbSgrM5RLreSmpKmK1DTZKywSKiQ-pEFeDvykSZsw/s1600/logo-quadrado-58%C3%9758.png",
+    "type": "image/png",
+    "sizes": "58X58",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCHIPCryLRl5V22zfEaa0E-aZV49YCrnpVZFbalRvfFGxLo8h1X2XvQgXcpJz4mbf8I-sSioTLwASFwJbqMpK_2mfPMN8rjTkjn053HOEIrQ43PYSKS14su6faY83YkF7-54PcY6ZnMTraakEcTaQ7i7jGkD4BypYzfozTXwAneqTUuLjPzilOA_h6Tg/s1600/logo-quadrado-62x62.png",
+    "type": "image/png",
+    "sizes": "62X62",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzVGe8ez5o4-ohhE010i_h9J9uDwRP_HJxgwg9gZjc07tABSklDtF-hnzyerPw6kkdwvCTbaTcADYfEfjaSulLjhdaury5hfJ1RKuaEGjyauYt8uw3Szux4xp5Flx8bV4LxwZY8a3fz7-BIm5mga3sMIJREvMTQMBNjOidyDqx20FZkqZctMj13LKEJg/s1600/logo-quadrado-64%C3%9764.png",
+    "type": "image/png",
+    "sizes": "64X64",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV32TAuWOHcTmTMfLnnC5Vnfq5hTRMkIIisakTjsP5FzJvpYnNdhYQqayoJtaHKfOC4oPAm4Wagjv93MrrmzDyU41leJI6sVSVV1hhecUdRhVR5cgyukEwjqlPVVfTUPIBHyTuOZ-jXUA2H7qNVYLwCqeDK89Iw0ZM1zDkZXWRmfhcIfhNR9FzMsQ2rw/s1600/logo-quadrado-66%C3%9766.png",
+    "type": "image/png",
+    "sizes": "66X66",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNfXK3aWg0NdbHIjyXgaT-PF1d1X0OHHKeq0D_0fE5x7pfNYvHETdjbeXr4Q_1iAt0WXPTzV9Q7x_0Yh7ehK2n_aKdhpdykgk9Vktp0MYWfV1ZWIrzx83zvBF8snyKjx8KSEt3mFwkxBpqinS-Z1wsH1MY50ylCYlKBmq9Z5lShpPmIxV-ys1Mu0yZoQ/s1600/logo-quadrado-72x72.png",
+    "type": "image/png",
+    "sizes": "72X72",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qocaTnb6rkUGd-Lr90WbFCY98rqXDK2QJv8hGczsHSEVMyOSP6YVgedaTuXGBNT2zdQ5ksqswhH2sqdARwCFv9gPtHLgBhbk4BFG8AeLnrnMn6hrou5L9r1W8YioRQMiCPr7LNBLVrRd5CIF9UezMRJsxu_8by3Qt7nAI1Bhko582d5jWZ4cePJ5uA/s1600/logo-quadrado-75%C3%9775.png",
+    "type": "image/png",
+    "sizes": "75X75",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7yaXYXjNOevIhGeGrJ1NWo1P7pNG3e418Hw9RqOGh8NnnKiHjABXh3ZTGWZkNEu-EWmEO2zvccuu8CFYCbMLOmUYKIgHCQ6Op8QD1BUgUS7OLDUELvfU5CPxVdGdD03lxbLvhrPC1Ox8h_CN8y4PAK4q9r07Nt1pSouvw9PVamShn1C1d8B661TI4jw/s1600/logo-quadrado-80%C3%9780.png",
+    "type": "image/png",
+    "sizes": "80X80",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlX311zTewUiqauQlIKHQYgnD9gkZtjmbwgOiawlTO7_zw2Vh1joFbzgB7o2otKa_T2O4zNYdH2q3JChWUvg5vyLhwqee2DJbgHwzQwMJHE-dKjxMoth0GLft2WTEj5w_vCc1Rf1f9lxv9-GxB6OexiqrJrTW1WRjMFDdqhQvEk1BkBGKv4N7iRD90Hw/s1600/logo-quadrado-87%C3%9787.png",
+    "type": "image/png",
+    "sizes": "87X87",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4AOqubjH2fqkRSshE8XVRYxuk2DrOf3z_aeWVARa4vQPdt-uldXQG3Q_SFL8jAMA4FuJcdB2tYXvQwMKUWchlE1J5aigY4sYd33wpSamQcsiu6qIC6r0KYwzogTqlRDKhiMc7K2JqyiWmHiOKDCndl2NPQbV8E6qgQ9O_rtJZZN8Uv3wJWKHJlE2xQ/s1600/logo-quadrado-96x96.png",
+    "type": "image/png",
+    "sizes": "96X96",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfne4dPcqrtOQ3_-Ynw01PuI11rpwlchUAtYzA8QLlh229q6ADzdlA7kT4v-EzunZoYuTSrCRmbiWm-flrzlpn4riHkSS4BgZJ8pOa1TvcYObOGk-6F8tHAWe2-4RA61wysxitTdqkt7ArH5uPDd0RD55VhPuNdOwWFgchUt06XOeAQVrEpuqHLxRbrw/s1600/logo-quadrado-120%C3%97120.png",
+    "type": "image/png",
+    "sizes": "120X120",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8BP-nJXXe5nYkLRBFVS8ldTEnAU2YdBDjEvVmtXbm0T-0F0IGfnyil2hZYezPkUH-T6zG0Tte-_zXRzVWlT8fdauKXJqmc78A2cfOYGegkb9TxtTxdVzZ3ZhpGVw3_2d8slLyILkoswIt0NuAkdDykEu7nTRYxSkV945VzRnOuZ6XoMuc659H1ZofOQ/s1600/logo-quadrado-128%C3%97128.png",
+    "type": "image/png",
+    "sizes": "128X128",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirPGAyj8_3kiQ_lrM6A3iRbc8WMz6IvSzrN3z2-lmTyPwnZXSnQElrrPm_SL8OtHbXAPlZJ43gPUo04ph0VoaeQ3D9wXQyZKYYjjcD7lgEk_K-MAkzOf2GNoISuuslKR27EU_aXvStVVVoH_9y_eIGvi_zyE3UuIPsLVOtRaeSppcC72hK531csmpiBQ/s1600/logo-quadrado-144x144.png",
+    "type": "image/png",
+    "sizes": "144X144",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmtAerFxhGHwjLTimspQr51VvLLdbhOpG3gdnUrXgBLsWlzFn7DlTInbTOIacE28NJgf74HLRAXd4E2gJ5827bCjZ3ImYCbf2RNgUMcLMO-3lVAXsNZJHYYU46VgNxOKSvjrFLZi3ugoQcwdmx0LtvG-cb8yoGuwK1FxSXXKCkQMGEZqGdeLsISLCLRw/s1600/logo-quadrado-152%C3%97152.png",
+    "type": "image/png",
+    "sizes": "152X152",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwSO927rNQP9aG2AYQHw_V6-FRoIQgpPmeOIX9LZQWtaSuEx1t7QMWoVIM_TR35ebEehqThq31DWc03PhXShF4BGCKVZrHS-GoDyz2k-xw3rYAudRm523w84u3G9Er3il0-m1RxrdNqWIOXCoq3bfED--gpvQSbmc4Ijli2-Vq92lh3JBMYnp4GwrrIg/s1600/logo-quadrado-173%C3%97173.png",
+    "type": "image/png",
+    "sizes": "173X173",
+    "rel": "icon"
+    },     
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_7RmTEK907-JYnG3lbuV6dS-Q0PdwN3VwyNf4F3wcTX9oVEtMtn6kQOQ09xuQgwekv7YfJF9zQOVicX_MOaGZmKc5_Oswxc3CLoOKeL0Mo8bPICbv5LFVGHoG4mY7dzfM0JkJmR79aK8iZwyZ_VX1Q2fuaaG7UJx-fTNj1HECNGSXczl0BDg-bxFfOQ/s1600/logo-quadrado-180%C3%97180.png",
+    "type": "image/png",
+    "sizes": "180X180",
+    "rel": "icon"
     },    
     {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMJ8Frm6mZimvKudJ3kXzGxH5yhBkvI8ExLvT1t1gWjMHTCAi_YU-nCvEu_Jf1wZFjapLFUquO1tf5ZUTqicAkl29pkTVoplR0rDGFlCYjvRYnsVDnegZGDQ61mt8_cxGPPxwnDNLCVcqM6TEuXEVD7AttmcEhjtjQAHDoGshOWt8rOdDC2vNwSEYAIg/s1600/logo-quadrado-48x48.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlLteqKSVzHtXrNCQ099O1P9RmUDFkzve1PmcBRq1HkoLKHUwxZafrdrAK_fJ_boB6Wxzlc3gcltkjLDNnZ2BjzXahHfUPtyY_rpKwP2ZAV0dfJphSjxZ4kGU1VMYmhgz-KWexFwdXC-dvYX5MEKixln1xxrao21Jjui1JPyNBUzgdPjPc5Lu5SueZBw/s1600/logo-quadrado-192X192.png",
     "type": "image/png",
-    "sizes": "48x48",
+    "sizes": "192X192",
+    "rel": "icon"
+    },    
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-kbbBD3MMmPAMYgIVRlP79XnvlwHQ99VQ9Upjyj7M_bA7zXUci5VUK3wkqif_BjP7blMa1VYqbBJIauFhKNYDrbYPT3L8fm_hUOpBBKzALXDMO2Kj-R1ttCiHgyJMEepB1FBNtsksVbkUAIwE6iO45vSpXGqdHJ45ZntUcl2121y6q5WefEjUGi064w/s1600/logo-quadrado-200%C3%97200.png",
+    "type": "image/png",
+    "sizes": "200X200",
     "rel": "icon"
     },
     {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrq03VpBidEt_ZVZRbu06JN8ODTgiJ3cMOiKMEjq9KFk6HRE1InrwhaFUozyKqsmEdLGwLqWKZUcCv7Qcyd2M99mh6pBDeipbGBwVRpnRxQoKIxuTS05hW_xOITNBRiKwKN4UPT-FhlDwmzAnqBO2q3M8IubM-l0fMClYq43B7J-E4CX_wgTMrJpMwQ/s1600/logo-quadrado-72x72.png",
-    "sizes": "72x72",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDHa8yumsJqqz4jgdpZ8DKQvjzz9BTFnBi5PNx9v85uUm2dcwTYWOEpVFfaxSM-0zaOEbZ2QxmBPUqJn_V4zVzyajfYVVU0DbtSer5-IANV6-a6C6WTANjxhr_aguRCAFIt_0nxQ2tUOziRQxwyYIxZqZzD5k9KmlpcI3y44gWKPAl90EyMZheNHnbLg/s1600/logo-quadrado-256%C3%97256.png",
+    "sizes": "256X256",
     "type": "image/png",
     "rel": "icon"
     }, 
     {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWtlFlTePIzm__qLHTdRXjjCZO-h3dz5RIVjX0bf9_Sz9UYJXGoUH0mzWcGlbzbDwXNUOjF7wJfnmjdoS55H4ElzTqEH4FtQSwMISdJeU9o_4w2z3lEf9lw4PfWpNg4Uh-DWkan2zL_CLQ8AIuyySwO197pCMEQFAg-GeG85mZbBm8e7IhNARy4zDuDA/s1600/logo-quadrado-96x96.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLexOqwK9VNqMExHxW5t_W8sp6GpgEyEYlI3GchWuB9eCt1e7_xvUHGOtb8vHpxP-vnlcL-XFXQ1--9ongyiT4YH_8UOlZeecemg77IJJ7X-bP87iQMrYTCC7RP256osZEmb_dmw4wnTb35fKVy8JCNGMzWJRFeRzgd2dxYBsqnq7FyKW1pK63SEl3uw/s1600/logo-quadrado-512%C3%97512.png",
     "type": "image/png",
-    "sizes": "96x96",
+    "sizes": "512X512",
     "rel": "icon"
     },
     {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif5n9rsReHCwelkmt2zKakQaKiSkjbOpxzI7zg2dLaewGmq8GKl4ntP-B_ZYdps0LaAn_6sN3Lr_7Lb3jnbvIT_DAu2iCPCBM0Ko_C1Vxg8NffoiVGU6d9Qlsr9Qs6wpCFJxZhFsjTNi6nTdFUp8LfPh8GRbmrpZmwkd0U15h1B71JTMojJ0QE7eU3Kw/s1600/logo-quadrado-144x144.png",
-    "sizes": "144x144",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZnLlOBM_P7phY8H5tuyswamAQGScfHLSfdKLk9GHKxodC8ejzqPHM3EBus7PLUMwVK2Ic7V_RxbEQOotZ8MW-8wk5tbyf_kgywpf2QRPrU58QKHruAtVNQBwNWNu2gyQyDNAxQ1pnskCJo8ev7VqJlt8MwhsQ0XflsmH2URXkD5_mzqaiHfQoxkWMSQ/s1600/logo-quadrado-1000X1000.png",
+    "sizes": "1000X1000",
     "type": "image/png",
     "rel": "icon"
     },
@@ -59,11 +191,23 @@
     "rel": "icon"
     },
     {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji7JpRfVQ9g3tLQFZvMyX8_xa9gccrDLnQpEuzyVT2FnrYIVr0BkbabfQ3_OCT6cg3faVTPcYd-nP6ZStJCoaQwC4ZXYlOQujSUhjT6d2BMWoKYPfhpL2KLXwIvkMIINkjM4WX96Q6n13m2QBByCi1CdvF9a_Ib9bCpXLw2m8abTMCIAhiUbQS3HVP9w/s1600/square.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Zg6Dytj9IV4g4T-_tMZbPPFORCMc2BYNzCpuUXPcHtdMEjNLbSNZO66uJjnWTjvI8-F5n0h5HX59oRvuUEZ2rUjanW6ZlLaSUQz-LIAyTojDPyBdlko93GAEol5jxDVrTmwULpVEJwTc8JQOxi4kw_MZyiIzcaEc67RNNMVevUTVsmPp6NqfCA0pTg/s1600/logo-quadrado-1024%C3%971024.png",
     "type": "image/png",
-    "sizes": "1600x1600",
+    "sizes": "2024X1024",
     "rel": "icon"
-    }     
+    },
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVv_Gmaf6NfOwkqkwiD10ITphDg1pg7z6JGau5uhTkv-AT0rh2Fv7MExwamrF1EzyA2eaxZhS3Al1BMULdYDaQ_Yyt3XLc9kKKWBeMmCmpuL6cvALawrsn0naMpJGY8knzQc4iXhj2SBJCJaFBm_fp_bWkyC8yJDre6clexztmlgnz7BP5Hc4gnqsiw/s1600/logo-quadrado-1200X1200.png",
+    "type": "image/png",
+    "sizes": "1200X1200",
+    "rel": "icon"
+    },
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggMT1BmdYHakOGimSAodt2893rhTwAcnKyAuB4MU6oRopK9BcK48ByKmUUMxjld5zkM0BcLfADEgAgbp4P4eakWTJBfnEQqQWwzS89xQ8MbI3HuarIDLE0bRg6lzzq944WsodN1ojA7J3CIXS7iNXh1ugbv1jvFJtHkYN9oPMtdaX2KTt3vaSw9c7xQA/s1600/logo-quadrado-2400X2400.png",
+    "type": "image/png",
+    "sizes": "2400X2400",
+    "rel": "icon"
+    }    
     ],
 "start_url": "https://cooperadoresdoevangelho.blogspot.com/",
 "background_color": "#fff",
