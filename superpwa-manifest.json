@@ -165,27 +165,9 @@
     "type": "image/png",
     "sizes": "512X512",
     "rel": "icon"
-    },
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZnLlOBM_P7phY8H5tuyswamAQGScfHLSfdKLk9GHKxodC8ejzqPHM3EBus7PLUMwVK2Ic7V_RxbEQOotZ8MW-8wk5tbyf_kgywpf2QRPrU58QKHruAtVNQBwNWNu2gyQyDNAxQ1pnskCJo8ev7VqJlt8MwhsQ0XflsmH2URXkD5_mzqaiHfQoxkWMSQ/s1600/logo-quadrado-1000X1000.png",
-    "sizes": "1000X1000",
-    "type": "image/png",
-    "rel": "icon"
-    },
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Zg6Dytj9IV4g4T-_tMZbPPFORCMc2BYNzCpuUXPcHtdMEjNLbSNZO66uJjnWTjvI8-F5n0h5HX59oRvuUEZ2rUjanW6ZlLaSUQz-LIAyTojDPyBdlko93GAEol5jxDVrTmwULpVEJwTc8JQOxi4kw_MZyiIzcaEc67RNNMVevUTVsmPp6NqfCA0pTg/s1600/logo-quadrado-1024%C3%971024.png",
-    "type": "image/png",
-    "sizes": "1024X1024",
-    "rel": "icon"
-    },
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVv_Gmaf6NfOwkqkwiD10ITphDg1pg7z6JGau5uhTkv-AT0rh2Fv7MExwamrF1EzyA2eaxZhS3Al1BMULdYDaQ_Yyt3XLc9kKKWBeMmCmpuL6cvALawrsn0naMpJGY8knzQc4iXhj2SBJCJaFBm_fp_bWkyC8yJDre6clexztmlgnz7BP5Hc4gnqsiw/s1600/logo-quadrado-1200X1200.png",
-    "type": "image/png",
-    "sizes": "1200X1200",
-    "rel": "icon"
-    }   
+    }
     ],
-"start_url": "https://cooperadoresdoevangelho.blogspot.com/",
+"start_url": "https://www.cooperadoresdoevangelho.org/",
 "background_color": "#fff",
 "dir": "rtl",
 "lang": "pt_BR",
