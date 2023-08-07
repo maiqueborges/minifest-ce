@@ -3,121 +3,25 @@
 "name": "Cooperadores do Evangelho",
 "description": "Existimos para cultivar a transformação da fé cega para a gloriosa descoberta da Verdade, a essa geração. — Maique Borges",
 "icons":
-    [
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqoryUQ8S94xtuK4pvKN3DmWOr1Sg0lamuiMiCICwQwIcWipLypqVEuAJSX0mIm6dZvJpYx5tl-9KQDG9bQ3XvB3KCMBHy-zb7E5kogJW7SksupW8ODpj43GxzT0oMNn-IpGNHuT-70BOd65LEXZ2sGRzTXcZqi6Z0c2seBzmIuQyGzfgDaRTAeVTUwg/s1600/logo-quadrado-16x16.png",
-    "type": "image/png",
-    "sizes": "16X16",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNYcCUfDO54J0C_4f3Kt-AFQl_KG9kfqAhTatLd4kBerxJaaGIqRy6yp48OlNwLQZFxc6u7GMroJJfV914oc8j3q91lTa7M6S6GDEcce-26J0WLBC2KGQUbK9g8UQmYpFPKpSR-35g5QPcSBkpJqFBHFK38eDggOkhBxtCCslBXznPwclmOsRON0Pdgw/s1600/logo-quadrado-18%C3%9718.png",
-    "type": "image/png",
-    "sizes": "18X18",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGth8bs0Q7xAOOqXC1Lcdz5csoqyZy-TM6BoMsHXJx6Dc7Wa7gouxQp7vg77Yr0j7Pwmjo1WZbnbtC8AeLnPAXefSC0eBuujNbuo75MxED0Qef8l9WEhL1HIwb5_iovj8RZ9omEwFwc4g_ePtyAHefrzM9pNG64L9Sv3tYyMOb1bsoJLLSxaRZckrPw/s1600/logo-quadrado-22%C3%9722.png",
-    "type": "image/png",
-    "sizes": "22X22",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-bRqMoIXaWrjfT0F7x7FrIJRGYcKBUcgAdf9Ln2TsylAPF-5A4Ib7_ApiUDxHK_9jAhNI6A-NJ3iZh1VJwt5N-F5_MJUeb06moBJTGt23ObwbECkpPoNTBlOBNxkbZOvpShKbyq9KlDY7QVxiHMqIEyVcjMtIDHKvWwp6KRIXsYliMRwkH5_lvxL3kg/s1600/logo-quadrado-24x24.png",
-    "type": "image/png",
-    "sizes": "24X24",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYM4VHJw2K9HWXLAD8B1B9YTnwUb34tmy5f29Cp-RCAlmDD1Q8WDfEuenRPHM5JVo-BXooIbxVWx4AfdvdM-I56n9--7jrtWdF8iVzNAliFg2bAkigOUVKfogL9I1Okzm7pXf2tPw19ia_BvX1PikacGKhEo6RHpdchy4__AuirZwSZP6tS0Z6A_HFjQ/s1600/logo-quadrado-32x32.png",
-    "type": "image/png",
-    "sizes": "32X32",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMJCODgb2gEaKi4oYwOKc0tQehcziXV9SPfcuelVXEtc4WYrvMg2TZ1ijJhnSlmB87A0qUml1yti6Rm9tC0FLWRbk_BZuqjNAUxF9lyoUI0l8RyY46eBimUQKbIhCqoKLH5o1yUW6vREqz4jAaZBi3o7vMR75-AVrX_XagSBHzNWIcHvbOQwPllWHw_Q/s1600/logo-quadrado-44%C3%9744.png",
-    "type": "image/png",
-    "sizes": "44X44",
-    "rel": "icon"
-    },     
+    [     
     {
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TJT7HgoA15KkTWGToR8dxRfzZudkqzKBKJPiH8Jlkk8EFAtQgbY5OumwCkv84gIVuZTmwLwdmXt_o2-MCZKa4ucHPdpGid5zE8vMnMLB6hGEzx5qZIl8sMNnknAoAUK2-FlpBFlg03KsKdqoplWriN9aBNvkX8ZFS2Q9Y3BT5-AMWkPQta_oZb2ahw/s1600/logo-quadrado-48x48.png",
     "type": "image/png",
     "sizes": "48X48",
     "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJdgCfqAdlqZFU0PFL8w8B0KsiYCm2yZgy44YTs2va_H3owIsRrgigHNzWMx35IBwBhdO2K5NiYTOmhUtLqK44-YwWvMxbrrVMtzVlFlAN917_lUyZsfMwqj_FhzY-ZmKE5aY7m_ouWhAQucZH1sMuqnc43zRTno_7YB62VXU6uV9D7INtzUeGLqwKMQ/s1600/logo-quadrado-50%C3%9750.png",
-    "type": "image/png",
-    "sizes": "50X50",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg5YQFOXE4BGdAXbhnzr8Hw5vz03eyJS93zoY8g_BZGLbWMm3zlZoARiCQnshBPaaziFwU7ygHGSCP7_pdEPMtTZ9zGDSnNA4FI5P8w9XfqFxM64bGgl5ymFZp6hkV8SWdLe90Y4kzvjadM4a41UbSgrM5RLreSmpKmK1DTZKywSKiQ-pEFeDvykSZsw/s1600/logo-quadrado-58%C3%9758.png",
-    "type": "image/png",
-    "sizes": "58X58",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCHIPCryLRl5V22zfEaa0E-aZV49YCrnpVZFbalRvfFGxLo8h1X2XvQgXcpJz4mbf8I-sSioTLwASFwJbqMpK_2mfPMN8rjTkjn053HOEIrQ43PYSKS14su6faY83YkF7-54PcY6ZnMTraakEcTaQ7i7jGkD4BypYzfozTXwAneqTUuLjPzilOA_h6Tg/s1600/logo-quadrado-62x62.png",
-    "type": "image/png",
-    "sizes": "62X62",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzVGe8ez5o4-ohhE010i_h9J9uDwRP_HJxgwg9gZjc07tABSklDtF-hnzyerPw6kkdwvCTbaTcADYfEfjaSulLjhdaury5hfJ1RKuaEGjyauYt8uw3Szux4xp5Flx8bV4LxwZY8a3fz7-BIm5mga3sMIJREvMTQMBNjOidyDqx20FZkqZctMj13LKEJg/s1600/logo-quadrado-64%C3%9764.png",
-    "type": "image/png",
-    "sizes": "64X64",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV32TAuWOHcTmTMfLnnC5Vnfq5hTRMkIIisakTjsP5FzJvpYnNdhYQqayoJtaHKfOC4oPAm4Wagjv93MrrmzDyU41leJI6sVSVV1hhecUdRhVR5cgyukEwjqlPVVfTUPIBHyTuOZ-jXUA2H7qNVYLwCqeDK89Iw0ZM1zDkZXWRmfhcIfhNR9FzMsQ2rw/s1600/logo-quadrado-66%C3%9766.png",
-    "type": "image/png",
-    "sizes": "66X66",
-    "rel": "icon"
-    },     
+    },       
     {
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNfXK3aWg0NdbHIjyXgaT-PF1d1X0OHHKeq0D_0fE5x7pfNYvHETdjbeXr4Q_1iAt0WXPTzV9Q7x_0Yh7ehK2n_aKdhpdykgk9Vktp0MYWfV1ZWIrzx83zvBF8snyKjx8KSEt3mFwkxBpqinS-Z1wsH1MY50ylCYlKBmq9Z5lShpPmIxV-ys1Mu0yZoQ/s1600/logo-quadrado-72x72.png",
     "type": "image/png",
     "sizes": "72X72",
     "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qocaTnb6rkUGd-Lr90WbFCY98rqXDK2QJv8hGczsHSEVMyOSP6YVgedaTuXGBNT2zdQ5ksqswhH2sqdARwCFv9gPtHLgBhbk4BFG8AeLnrnMn6hrou5L9r1W8YioRQMiCPr7LNBLVrRd5CIF9UezMRJsxu_8by3Qt7nAI1Bhko582d5jWZ4cePJ5uA/s1600/logo-quadrado-75%C3%9775.png",
-    "type": "image/png",
-    "sizes": "75X75",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7yaXYXjNOevIhGeGrJ1NWo1P7pNG3e418Hw9RqOGh8NnnKiHjABXh3ZTGWZkNEu-EWmEO2zvccuu8CFYCbMLOmUYKIgHCQ6Op8QD1BUgUS7OLDUELvfU5CPxVdGdD03lxbLvhrPC1Ox8h_CN8y4PAK4q9r07Nt1pSouvw9PVamShn1C1d8B661TI4jw/s1600/logo-quadrado-80%C3%9780.png",
-    "type": "image/png",
-    "sizes": "80X80",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlX311zTewUiqauQlIKHQYgnD9gkZtjmbwgOiawlTO7_zw2Vh1joFbzgB7o2otKa_T2O4zNYdH2q3JChWUvg5vyLhwqee2DJbgHwzQwMJHE-dKjxMoth0GLft2WTEj5w_vCc1Rf1f9lxv9-GxB6OexiqrJrTW1WRjMFDdqhQvEk1BkBGKv4N7iRD90Hw/s1600/logo-quadrado-87%C3%9787.png",
-    "type": "image/png",
-    "sizes": "87X87",
-    "rel": "icon"
-    },     
+    },          
     {
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4AOqubjH2fqkRSshE8XVRYxuk2DrOf3z_aeWVARa4vQPdt-uldXQG3Q_SFL8jAMA4FuJcdB2tYXvQwMKUWchlE1J5aigY4sYd33wpSamQcsiu6qIC6r0KYwzogTqlRDKhiMc7K2JqyiWmHiOKDCndl2NPQbV8E6qgQ9O_rtJZZN8Uv3wJWKHJlE2xQ/s1600/logo-quadrado-96x96.png",
     "type": "image/png",
     "sizes": "96X96",
     "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfne4dPcqrtOQ3_-Ynw01PuI11rpwlchUAtYzA8QLlh229q6ADzdlA7kT4v-EzunZoYuTSrCRmbiWm-flrzlpn4riHkSS4BgZJ8pOa1TvcYObOGk-6F8tHAWe2-4RA61wysxitTdqkt7ArH5uPDd0RD55VhPuNdOwWFgchUt06XOeAQVrEpuqHLxRbrw/s1600/logo-quadrado-120%C3%97120.png",
-    "type": "image/png",
-    "sizes": "120X120",
-    "rel": "icon"
-    },     
-    {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8BP-nJXXe5nYkLRBFVS8ldTEnAU2YdBDjEvVmtXbm0T-0F0IGfnyil2hZYezPkUH-T6zG0Tte-_zXRzVWlT8fdauKXJqmc78A2cfOYGegkb9TxtTxdVzZ3ZhpGVw3_2d8slLyILkoswIt0NuAkdDykEu7nTRYxSkV945VzRnOuZ6XoMuc659H1ZofOQ/s1600/logo-quadrado-128%C3%97128.png",
-    "type": "image/png",
-    "sizes": "128X128",
-    "rel": "icon"
-    },     
+    },       
     {
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirPGAyj8_3kiQ_lrM6A3iRbc8WMz6IvSzrN3z2-lmTyPwnZXSnQElrrPm_SL8OtHbXAPlZJ43gPUo04ph0VoaeQ3D9wXQyZKYYjjcD7lgEk_K-MAkzOf2GNoISuuslKR27EU_aXvStVVVoH_9y_eIGvi_zyE3UuIPsLVOtRaeSppcC72hK531csmpiBQ/s1600/logo-quadrado-144x144.png",
     "type": "image/png",
@@ -165,7 +69,26 @@
     "type": "image/png",
     "sizes": "512X512",
     "rel": "icon"
-    }
+    }, 
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLexOqwK9VNqMExHxW5t_W8sp6GpgEyEYlI3GchWuB9eCt1e7_xvUHGOtb8vHpxP-vnlcL-XFXQ1--9ongyiT4YH_8UOlZeecemg77IJJ7X-bP87iQMrYTCC7RP256osZEmb_dmw4wnTb35fKVy8JCNGMzWJRFeRzgd2dxYBsqnq7FyKW1pK63SEl3uw/s1600/logo-quadrado-512%C3%97512.png",
+    "type": "image/png",
+    "sizes": "512X512",
+    "purpose": "maskable",    
+    "rel": "icon"
+    },    
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZnLlOBM_P7phY8H5tuyswamAQGScfHLSfdKLk9GHKxodC8ejzqPHM3EBus7PLUMwVK2Ic7V_RxbEQOotZ8MW-8wk5tbyf_kgywpf2QRPrU58QKHruAtVNQBwNWNu2gyQyDNAxQ1pnskCJo8ev7VqJlt8MwhsQ0XflsmH2URXkD5_mzqaiHfQoxkWMSQ/s1600/logo-quadrado-1000X1000.png",
+    "type": "image/png",
+    "sizes": "1000x1000",
+    "rel": "icon"
+    }, 
+    {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Zg6Dytj9IV4g4T-_tMZbPPFORCMc2BYNzCpuUXPcHtdMEjNLbSNZO66uJjnWTjvI8-F5n0h5HX59oRvuUEZ2rUjanW6ZlLaSUQz-LIAyTojDPyBdlko93GAEol5jxDVrTmwULpVEJwTc8JQOxi4kw_MZyiIzcaEc67RNNMVevUTVsmPp6NqfCA0pTg/s1600/logo-quadrado-1024%C3%971024.png",
+    "type": "image/png",
+    "sizes": "1024x1024",
+    "rel": "icon"
+    }    
     ],
 "start_url": "https://www.cooperadoresdoevangelho.org/",
 "background_color": "#fff",
