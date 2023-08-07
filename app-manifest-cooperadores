@@ -101,7 +101,7 @@
 "theme_color": "#ff4400",
 "protocol_handlers": [
       {
-        "protocol": "https://www.cooperadoresdoevangelho.org/",
+        "protocol": "ebd/",
         "url": "/?=%s"
       }     
     ]    
