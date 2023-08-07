@@ -101,15 +101,15 @@
 "theme_color": "#ff4400",
 "protocol_handlers": [
       {
-        "protocol": "lição",
+        "protocol": "web+lição",
         "url": "/?=%s"
       },    
     {
-      "protocol": "harpa",
+      "protocol": "web+harpa",
       "url": "/?=%s"
     },
     {
-      "protocol": "ebd",
+      "protocol": "web+ebd",
       "url": "/?=%s"
     }     
     ]    
