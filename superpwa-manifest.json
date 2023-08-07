@@ -98,13 +98,12 @@
 "display": "standalone",
 "orientation": "portrait",
 "prefer_related_applications": false,
-"theme_color": "#ff4400"
-},
-{
+"theme_color": "#ff4400",
 "protocol_handlers": [
       {
         "protocol": "lição+harpa",
-        "url": "/?type=%s"
+        "url": "/?=%s"
       }
-    ]
+    ]    
 }
+
