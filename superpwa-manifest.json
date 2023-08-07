@@ -100,10 +100,11 @@
 "prefer_related_applications": false,
 "theme_color": "#ff4400"
 },
+{
 "protocol_handlers": [
       {
         "protocol": "lição+harpa",
         "url": "/?type=%s"
       }
     ]
-
+}
