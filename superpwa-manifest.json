@@ -101,17 +101,9 @@
 "theme_color": "#ff4400",
 "protocol_handlers": [
       {
-        "protocol": "web+lição",
+        "protocol": "https://www.cooperadoresdoevangelho.org/",
         "url": "/?=%s"
-      },    
-    {
-      "protocol": "web+harpa",
-      "url": "/?=%s"
-    },
-    {
-      "protocol": "web+ebd",
-      "url": "/?=%s"
-    }     
+      }     
     ]    
 }
 
