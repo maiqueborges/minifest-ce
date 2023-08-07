@@ -93,10 +93,10 @@
 "start_url": "https://www.cooperadoresdoevangelho.org/",
 "background_color": "#fff",
 "dir": "rtl",
-"lang": "pt_BR",
+"lang": "pt-BR",
 "display": "standalone",
 "orientation": "portrait",
 "prefer_related_applications": false,
 "theme_color": "#ff4400",
-"gcm_sender_id":"482941778795" 
+"gcm_sender_id":"/?m=1" 
 }
