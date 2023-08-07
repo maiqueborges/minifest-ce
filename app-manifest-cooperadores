@@ -101,7 +101,7 @@
 "theme_color": "#ff4400",
 "protocol_handlers": [
       {
-        "protocol": "ebd/",
+        "protocol": "web+ebd",
         "url": "/?=%s"
       }     
     ]    
